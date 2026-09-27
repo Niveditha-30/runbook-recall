@@ -604,7 +604,7 @@ function App() {
 
         <div>
           <strong>Runbook Recall</strong>
-          <span> · HackWithHyderabad 3.0</span>
+          
         </div>
 
         <div>
